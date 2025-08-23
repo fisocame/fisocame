@@ -1,6 +1,7 @@
 # Olá, meu nome é Filipe!
 
 Sou professor, desenvolvedor e entusiasta de jogos, realidade virtual, cultura maker e IoT.  
+Atualmente, sou mestrando em Tecnologias para Educação.
 Apaixonado por tecnologia, educação e café.
 
 ---
