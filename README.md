@@ -37,8 +37,6 @@ Apaixonado por tecnologia, educação e café.
 - [ueUP] - Plataforma educacional em desenvolvimento
 - [Mecânicas de Código: Unity 2D na Prática] - E-book autoral em desenvolvimento
 
----
-
 ## Onde me encontrar
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.lipecarvalho.com/)
