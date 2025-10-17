@@ -35,7 +35,7 @@ Apaixonado por tecnologia, educação e café.
 - [IoT & Maker Roadmap 2025](https://iot-maker.vercel.app/) - Experiência interativa sobre IoT e Cultura Maker
 - [Dumangue Startup](https://www.instagram.com/dumanguestartup/) - Iniciativa de inovação e sustentabilidade
 - [ueUP] - Plataforma educacional em desenvolvimento
-- [Mecânicas de Código: Unity 2D na Prática] - E-book autoral em desenvolvimento
+- [Mecânicas de Código: Unity 2D na Prática](https://lipecarvalho.my.canva.site/mecanicas-de-codigo-unity-2d-na-pratica) - E-book de códigos em C# 
 
 ## Onde me Encontrar
 
